@@ -12,13 +12,13 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-          <Link href="https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template">
+          <Link href="https://github.com/Elixir-Protocol">
             <a>GitHub</a>
           </Link>
         </li>
         <li>
-          <Link href="/">
-            <a>Sign in</a>
+          <Link href="https://docs.google.com/presentation/d/12xCojFkMwdFDV7codIo3lDs-YsfWZf3LGU1HnzWyDRY/edit?usp=sharing">
+            <a>Slides</a>
           </Link>
         </li>
       </NavbarTwoColumns>
