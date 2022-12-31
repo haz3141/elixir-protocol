@@ -36,7 +36,7 @@ const Hero = () => (
         }
         description="Waste-to-Energy Protocol for Feeding & Empowering Developing Communities."
         button={
-          <Link href="https://creativedesignsguru.com/category/nextjs/">
+          <Link href="../../assets/elixir-protocol-whitepaper.pdf">
             <a>
               <Button xl>Read Whitepaper</Button>
             </a>
