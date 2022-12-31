@@ -8,7 +8,7 @@ const Banner = () => (
   <Section>
     <CTABanner
       title="Check out the full write-up."
-      subtitle="Read the Elixir Protocol Litepaper."
+      subtitle="Read the Elixir Protocol Whitepaper."
       button={
         <Link href="../../assets/elixir-protocol-whitepaper.pdf">
           <a>
