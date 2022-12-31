@@ -76,7 +76,7 @@ const Footer = () => (
           </Link>
         </li>
         <li>
-          <Link href="/">
+          <Link href="../../assets/elixir-protocol-whitepaper.pdf">
             <a>About</a>
           </Link>
         </li>
