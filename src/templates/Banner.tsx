@@ -12,7 +12,7 @@ const Banner = () => (
       button={
         <Link href="#">
           <a>
-            <Button>Read Litepaper</Button>
+            <Button>Read Whitepaper</Button>
           </a>
         </Link>
       }

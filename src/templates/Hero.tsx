@@ -38,7 +38,7 @@ const Hero = () => (
         button={
           <Link href="https://creativedesignsguru.com/category/nextjs/">
             <a>
-              <Button xl>Read Litepaper</Button>
+              <Button xl>Read Whitepaper</Button>
             </a>
           </Link>
         }
