@@ -28,15 +28,17 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            {'The modern landing page for\n'}
-            <span className="text-primary-500">React developers</span>
+            {
+              'Transforming Waste into an Infinite Source of Energy & Progress\n'
+            }
+            <span className="text-primary-500">Elixir Protocol</span>
           </>
         }
-        description="The easiest way to build a React landing page in seconds."
+        description="Waste-to-Energy Protocol for Feeding & Empowering Developing Communities."
         button={
           <Link href="https://creativedesignsguru.com/category/nextjs/">
             <a>
-              <Button xl>Download Your Free Theme</Button>
+              <Button xl>Read Litepaper</Button>
             </a>
           </Link>
         }

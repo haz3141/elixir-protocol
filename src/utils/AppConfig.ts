@@ -1,6 +1,7 @@
 export const AppConfig = {
-  site_name: 'Starter',
-  title: 'Nextjs Starter',
-  description: 'Starter code for your Nextjs Boilerplate with Tailwind CSS',
+  site_name: 'Elixir Protocol',
+  title: 'Elixir Protocol',
+  description:
+    'Waste-to-Energy Protocol for Feeding & Empowering Developing Communities',
   locale: 'en',
 };
