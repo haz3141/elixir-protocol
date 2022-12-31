@@ -10,7 +10,7 @@ const Banner = () => (
       title="Check out the full write-up."
       subtitle="Read the Elixir Protocol Litepaper."
       button={
-        <Link href="https://creativedesignsguru.com/category/nextjs/">
+        <Link href="#">
           <a>
             <Button>Read Litepaper</Button>
           </a>
