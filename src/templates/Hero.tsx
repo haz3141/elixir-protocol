@@ -36,7 +36,7 @@ const Hero = () => (
         }
         description="Waste-to-Energy Protocol for Feeding & Empowering Developing Communities."
         button={
-          <Link href="../../assets/elixir-protocol-whitepaper.pdf">
+          <Link href="../../assets/elixir-protocol-white-paper.pdf">
             <a>
               <Button xl>Read White Paper</Button>
             </a>

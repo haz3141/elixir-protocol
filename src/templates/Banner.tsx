@@ -10,7 +10,7 @@ const Banner = () => (
       title="Check out the full write-up."
       subtitle="Read the Elixir Protocol Executive Summary & White Paper."
       button={
-        <Link href="../../assets/elixir-protocol-whitepaper.pdf">
+        <Link href="../../assets/elixir-protocol-white-paper.pdf">
           <a>
             <Button>Read White Paper</Button>
           </a>
