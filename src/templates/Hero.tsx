@@ -38,7 +38,7 @@ const Hero = () => (
         button={
           <Link href="../../assets/elixir-protocol-whitepaper.pdf">
             <a>
-              <Button xl>Read Whitepaper</Button>
+              <Button xl>Read White Paper</Button>
             </a>
           </Link>
         }
