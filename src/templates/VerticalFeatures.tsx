@@ -13,7 +13,7 @@ const VerticalFeatures = () => (
       imageAlt="First feature alt text"
     />
     <VerticalFeatureRow
-      title="ELIX Network Token"
+      title="LIXR Network Token"
       description="Polygon based ERC-1155 Multi-Token for facilitating p2p exchange of waste into tokens used for food, electricity, & financial services."
       image="/assets/images/feature2.svg"
       imageAlt="Second feature alt text"
